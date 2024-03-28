@@ -41,7 +41,7 @@ public class Board{
     public String toString(){
         /* your code here */
 
-    return "";
+        return "";
     }
 
 
@@ -56,7 +56,7 @@ public class Board{
     public boolean allTilesMatch(){
         /* your code  here */
 
-    return true;
+        return true;
     }
 
 
